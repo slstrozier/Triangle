@@ -1,0 +1,5 @@
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\Triangle\bin\Debug\Triangle.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\Triangle\bin\Debug\Triangle.pdb
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\Triangle\obj\Debug\Triangle.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\Triangle\obj\Debug\Triangle.pdb
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache

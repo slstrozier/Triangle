@@ -1,0 +1,14 @@
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\TriangleTellerTests.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\TriangleTellerTests.pdb
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Triangle.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Triangle.pdb
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\obj\Debug\TriangleTellerTests.csprojResolveAssemblyReference.cache
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\obj\Debug\TriangleTellerTests.dll
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTellerTests\obj\Debug\TriangleTellerTests.pdb

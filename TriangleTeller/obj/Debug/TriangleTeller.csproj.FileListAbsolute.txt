@@ -1,0 +1,6 @@
+c:\users\slstr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\bin\Debug\TriangleTeller.exe.config
+c:\users\slstr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\bin\Debug\TriangleTeller.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\bin\Debug\TriangleTeller.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\obj\Debug\TriangleTeller.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\obj\Debug\TriangleTeller.pdb
+C:\Users\SLStr_000\documents\visual studio 2017\Projects\TriangleTeller\TriangleTeller\obj\Debug\TriangleTeller.csprojResolveAssemblyReference.cache
